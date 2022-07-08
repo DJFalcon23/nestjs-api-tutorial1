@@ -1,0 +1,10 @@
+POST http://localhost:3333/auth/signup
+Content-Type: application/json
+
+{
+    "email": "dog777652@aol.com",
+    "firstName": "Harry",
+    "lastName": "Fields",
+    "password": "Sup54447d",
+    "age": 14
+}
